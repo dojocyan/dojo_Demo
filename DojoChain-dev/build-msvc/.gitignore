@@ -1,0 +1,13 @@
+*.csproj
+*.suo
+*.obj
+*.user
+/.vs/
+/src/
+/packages
+/Debug/
+/Dojochain-cli/Debug/
+/Dojochain-common/Debug/
+/Dojochaind/Debug/
+/Dojochain-test/Debug/
+/Dojochain-tx/Debug/

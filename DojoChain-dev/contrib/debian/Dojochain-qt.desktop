@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DojoChain Core
+Comment=Connect to the DojoChain P2P Network
+Comment[de]=Verbinde mit dem DojoChain peer-to-peer Netzwerk
+Comment[fr]=DojoChain, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=DojoChain, eşten eşe kriptografik sanal para birimi
+Exec=Dojochain-qt %u
+Terminal=false
+Type=Application
+Icon=Dojochain128
+MimeType=x-scheme-handler/Dojochain;
+Categories=Office;Finance;
